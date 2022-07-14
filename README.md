@@ -52,14 +52,14 @@ Take a chill pill because [Apni Dukaan](https://qazimaazarshad.github.io/Apni-Du
 <div>
 <img src="Images\ApniDukaanLogo.jpg" height = "95" align = "left" padding-bottom = "10px"/>
 <div>
-ApniDukaan.com is a site where everyone gets everything they need. ApniDukaan.com allows users to buy items of their choice from a wide range of products such as clothes, electronic gadgets, toys, electric appliances, cosmetics, household products, stationery, books, and many more. 
+Akshuday.com is a site where everyone gets everything they need. ApniDukaan.com allows users to buy items of their choice from a wide range of products such as clothes, electronic gadgets, toys, electric appliances, cosmetics, household products, stationery, books, and many more. 
 </div>
 </div>
 </p>
 
 ## Link to the Website
 
-https://qazimaazarshad.github.io/Apni-Dukaan/
+https://Akshuday.github.io/supermarket/
 
 ## Tech Stack
 
