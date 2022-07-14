@@ -1,4 +1,4 @@
-# Apni Dukaan <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/shopping-trolley_1f6d2.png" width="50" height="50" />
+# supermarket<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/shopping-trolley_1f6d2.png" width="50" height="50" />
 
 Shopping! Who hate shopping? Everyone wants to get their hands on latest fashion trends and smartest new gadgets.
 <p align="center"><img src="https://im.idiva.com/content/2015/Dec/shopping_10.gif" width = 50%></p>
